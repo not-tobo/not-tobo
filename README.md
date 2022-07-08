@@ -1,5 +1,5 @@
 ### Hewwo, I'm Topi :3
-![UwU](https://media.discordapp.net/attachments/867519940747460610/869356629752152084/EWLO9pxVcAA-v6Y.jpg)
+![UwU](https://not-topi.xyz/michiru.jpg)
 
 - 🔭 I’m currently working on a VRC Utilty Mod and some other little Mods Projects
 - 🌱 I’m currently learning c# and Python
