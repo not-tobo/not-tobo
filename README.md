@@ -1,7 +1,6 @@
 ### Hewwo, I'm Topi :3
 ![UwU](https://not-topi.xyz/michiru.jpg)
 
-- 🔭 I’m currently working on a VRC Utilty Mod and some other little Mods Projects
 - 🌱 I’m currently learning c# and Python
 - 🤔 I’m looking for help with c#, especially with Unity
 - 💬 Ask me about anything if you want
