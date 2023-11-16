@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Just a hobby coder doin dumb stuff<br>    🤔 I’m looking for help with c#, especially with Unity<br>    💬 Ask me about anything if you want<br>    📫 How to reach me: [dev@not-topi.xyz](mailto:admin@w3schools.io) or Discord: [not_Topi](https://discordapp.com/users/487174753094729738)<br>
+💻 Just a hobby coder doin dumb stuff<br>    🤔 I’m looking for help with c#, especially with Unity<br>    💬 Ask me about anything if you want<br>    📫 How to reach me: [dev@not-topi.xyz](mailto:dev@not-topi.xyz) or Discord: [not_Topi](https://discordapp.com/users/487174753094729738)<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/by9CHMeVj9) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/not_tobo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/not_Tobo) 
